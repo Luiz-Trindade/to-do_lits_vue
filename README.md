@@ -28,7 +28,7 @@ Luiz Trindade
 
 ## Licença
 
-Este projeto está sob a [Licença MIT](LICENSE). Consulte o arquivo LICENSE para obter mais detalhes.
+Este projeto está sob a [Licença MIT](LICENSE.txt). Consulte o arquivo LICENSE para obter mais detalhes.
 
 ---
 
